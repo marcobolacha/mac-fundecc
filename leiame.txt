@@ -1,0 +1,10 @@
+Vá em https://spring.io/tools baixe o arquivo correspondente ao seu sistema operacional 
+Vá em https://code.visualstudio.com/ e baixe o arquivo correspondente ao seu sistema operacional 
+Vá em https://nodejs.org/en/download/ e baixe o arquivo correspondente ao seu sistema operacional
+Após a instalação do Nodejs crie uma pasta de trabalho, navegue até lá pelo prompt de comando e digite npm install -g @angular/cli
+Aguarde a instalação dos pacotes, e digite ng version
+Abra o Visual Code Studio e clique em Clone a Repository/ Clonar um repositorio.
+Informe o caminho https://github.com/marcobolacha/mac-fundecc, informe a sua pasta de trabalho. 
+Pressione salvar e depois que confia no autor. Aguarde a importacao dos arquivos e pronto.
+
+ 
